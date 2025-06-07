@@ -1,5 +1,4 @@
 ﻿# Scholar-Connect.........
- <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 # https://github.com/Abhiram0703/Scholar-Connect
 
