@@ -1,12 +1,3 @@
-﻿# Scholar-Connect.........
-
-# https://github.com/Abhiram0703/Scholar-Connect
-
-prepare the read me file for the above github repo
-
-Certainly! Here is a well-structured README.md for your [Scholar-Connect](https://github.com/Abhiram0703/Scholar-Connect) repository, based on typical standards and the information available from the repo structure.
-
----
 
 # Scholar-Connect
 
